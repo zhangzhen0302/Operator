@@ -1,0 +1,4 @@
+﻿  expression.cpp
+D:\Visual studio\操作符\data\expression.cpp(34): warning C4715: “rightpri”: 不是所有的控件路径都返回值
+D:\Visual studio\操作符\data\expression.cpp(27): warning C4715: “leftpri”: 不是所有的控件路径都返回值
+  data.vcxproj -> D:\Visual studio\操作符\Debug\data.exe
